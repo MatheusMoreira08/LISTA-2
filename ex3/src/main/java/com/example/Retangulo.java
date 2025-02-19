@@ -1,4 +1,4 @@
-/* 
+
 package com.example;
 
 public class Retangulo extends FormaGeometrica {
@@ -12,7 +12,7 @@ public class Retangulo extends FormaGeometrica {
 
     }
 
-    @Override 
+    @Override
     double calcularArea() {
         return larguara * altura;
     }
@@ -22,4 +22,3 @@ public class Retangulo extends FormaGeometrica {
         return 2 * (larguara + altura);
     }
 }
-    */
