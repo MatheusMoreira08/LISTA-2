@@ -14,7 +14,6 @@ public class Gerente extends Funcionario {
         return salario + bonus;
     }
 
-    @Override
     public void descansar() {
         
     }

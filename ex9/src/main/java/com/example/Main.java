@@ -1,7 +1,7 @@
 package com.example;
 
-import com.exemple.Deposito;
-import com.exemple.Saque;
+ import com.example.Deposito;
+ import com.example.Saque;
 
 public class Main {
     public static void main(String[] args) {
