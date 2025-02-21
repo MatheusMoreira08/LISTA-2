@@ -1,6 +1,6 @@
 package com.example;
 
-public abstract class ContaPoupanca extends ContaBancaria {
+public class ContaPoupanca extends ContaBancaria {
 
     @Override
     public void sacar() {

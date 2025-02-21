@@ -1,12 +1,13 @@
 package com.example;
 
-public abstract class Twitter extends RedeSocial{
+public class Twitter extends RedeSocial{
     
     @Override
     public void postar() {
         System.out.println("carregando ......");
     }
 
+    @Override
     public void curtir() {
         System.out.println("curtindo.....");
     }
