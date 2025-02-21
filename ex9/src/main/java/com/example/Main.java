@@ -8,7 +8,7 @@ public class Main {
         Banco deposito = new Deposito();
         deposito.realizarTransacao(500.0);
         
-        // Testando a classe Saque
+        
         Banco saque = new Saque();
         saque.realizarTransacao(200.0);
     }
